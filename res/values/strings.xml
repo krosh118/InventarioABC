@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">InventarioABC</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Sdemanda">Demanda</string>
+    <string name="Svalorarticulo">Valor Articulo</string>
+    <string name="Sagregar">Agregar Dato</string>
+    <string name="Soperar">Operar</string>
+    <string name="Sborrar">Borrar</string>
+    <string name="Sabrir">Mas aplicaciones</string>
+
+</resources>
